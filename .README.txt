@@ -1,0 +1,9 @@
+Add_Barcode_GUI.pl - Add Intel barcode fields to a tab delimited text file
+
+datafix.pl         - Attempt to fix 'broken' lines in a text file
+
+remake.pl          - reads a list of sort numbers from a file called "remake.txt" and 
+                     extract those records from the given output file
+
+Slipsheet.pl       - Insert 'slipsheet' records in to a Print Post sorted file
+
